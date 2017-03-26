@@ -1,6 +1,7 @@
-# Milestone-1-gear-train-design
-Calculate all acceptable gear teeth number combination.
+# Engineering 1C03 project Milestone-1-gear-train-design assist program
 
-A small program used to find all possible combinations of gear train with specific constrain(s).
+Calculate all acceptable gear teeth number combination. 
 
-Engineering 1C03
+A small program use for find all possible combinations of gear train with specific constrain(s).
+
+
